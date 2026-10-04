@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="dev.fuelwallet.lukoiltest" android:versionCode="10" android:versionName="1.0">
+    package="dev.fuelwallet.lukoiltest" android:versionCode="11" android:versionName="1.1">
     <uses-sdk android:minSdkVersion="26" android:targetSdkVersion="34" />
     <uses-permission android:name="android.permission.INTERNET" />
     <application android:label="Карман" android:icon="@mipmap/app_icon" android:theme="@android:style/Theme.Material.Light.NoActionBar"
